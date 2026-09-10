@@ -6,7 +6,7 @@ Este projeto é um sistema orientado a objetos desenvolvido para gerenciar as pr
 
 A estrutura do sistema foi projetada para garantir modularidade e baixo acoplamento, utilizando interfaces e separação clara de responsabilidades.
 
-![Diagrama de Classes da Companhia Aérea](CompanhiaAerea%20(1)_page-0001.jpg)
+![Diagrama de Classes da Companhia Aérea](Diagrama.png)
 
 ## 🚀 Funcionalidades Principais
 
